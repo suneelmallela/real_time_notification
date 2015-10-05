@@ -82,16 +82,6 @@ TEMPLATES = [
     },
 ]
 
-<<<<<<< HEAD
-
-=======
-TEMPLATE_DIRS = {
-
-        root('templates'),
-    
-
-}
->>>>>>> 6b9ba2117adb85a1361fe5489fd58ecdc0405d33
 
 WSGI_APPLICATION = 'realtimenotif.wsgi.application'
 
